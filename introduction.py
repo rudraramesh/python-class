@@ -11,13 +11,4 @@ print(8-3)
 print(5-4+14/2*10 % 3)
 
 
-# variable -> to store value
-#eg: a=25
 
-x = 20
-print(x)
-
-
-a=21
-b=11
-print(a-b)

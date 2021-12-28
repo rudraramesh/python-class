@@ -1,0 +1,14 @@
+python
+
+-high level language
+-high level language convert into machine language(0,1)
+
+its uses
+-web(Django)
+-Machine learning
+-Data Science
+-Artifical Intelligence
+
+
+where from to download python
+-python.org
