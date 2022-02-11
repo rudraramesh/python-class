@@ -1,0 +1,5 @@
+this is a new text
+ this is a new line text
+
+
+comparison operators and logical operators python

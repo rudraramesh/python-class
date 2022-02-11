@@ -136,3 +136,5 @@ python manage.py createsuperuser
 
 
 
+search:-
+counter machine python
